@@ -6,7 +6,14 @@
 
     <groupId>IT_social_network</groupId>
     <artifactId>IT_social_network</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <name>IT_Social_Network</name>
+
+    <modules>
+	<module>social_network_core</module>
+	<module>social_network_ui</module>
+    </modules>
 
     <dependencies>
  
