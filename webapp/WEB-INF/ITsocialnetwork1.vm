@@ -1,0 +1,13 @@
+<html>
+<body>
+<div>
+    #parse ("up.vm")
+</div>
+<div>
+  page for ITsocialnetwork
+</div>
+<div>
+    #parse ("down.vm")
+</div>
+</body>
+</html>
