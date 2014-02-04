@@ -1,0 +1,14 @@
+<html>
+<body>
+<div>
+    #parse ("layer1.vm")
+</div>
+<div>
+    page for ITsocialnetwork
+$name
+</div>
+<div>
+    #parse ("layer2.vm")
+</div>
+</body>
+</html>
